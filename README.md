@@ -2,12 +2,12 @@
 BioMedical Relation Extraction - Masters Project
 1. **Connect HPC**
 * Terminal -1
-    * ssh 016651544@coe-hpc1.sjsu.edu
+    * ssh SJSU_ID@coe-hpc1.sjsu.edu
     * srun -p gpu -n 1 -N 1 -c 2 --pty /bin/bash 
     * srun -n 1 -N 1 -c 4 --pty /bin/bash 
 
 * Terminal -2
-    * ssh -L 52001:localhost:52001 016651544@coe-hpc1.sjsu.edu
+    * ssh -L 52001:localhost:52001 SJSU_ID@coe-hpc1.sjsu.edu
     * jupyter lab --no-browser --port=52001
     * Dataset loading - Dataset Visualize
 
