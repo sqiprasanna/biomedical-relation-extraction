@@ -1,0 +1,10 @@
+transformers==4.32.1
+datasets==2.14.4
+peft==0.5.0
+bitsandbytes==0.41.1
+trl==0.7.1
+torch
+torchvision
+torchaudio
+scipy
+scikit-learn

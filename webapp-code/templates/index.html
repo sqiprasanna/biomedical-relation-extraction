@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Circle Connections</title>
+    <style>
+        .active {
+    fill: rgb(240, 6, 190); /* Color change for active key circles */
+}
+
+        svg {
+            width: 100%;
+            height: 800px;
+            border: 1px solid #ccc;
+        }
+        .circle {
+            fill: steelblue;
+            cursor: pointer;
+            transition: fill 0.3s ease;
+        }
+        .circle:hover {
+            fill: lightblue;
+        }
+        .circle:active {
+            fill: rgb(235, 3, 173); /* Temporary color change on click */
+        }
+        .line {
+            stroke: gray;
+            stroke-dasharray: 5, 5;
+        }
+
+        .highlighted {
+    stroke: red; /* Color for highlighted lines */
+    stroke-width: 4px; /* Thickness for highlighted lines */
+}
+
+        text {
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+            pointer-events: none; /* Ignore pointer events on text */
+        }
+        #sentenceInput {
+        width: 100%; /* Adjust this value as needed */
+        height: 50px; /* Adjust this value as needed */
+        font-size: 20px; /* Adjust this value as needed */
+        padding: 10px; /* Adds some padding inside the text box */
+        margin-bottom: 20px; /* Adds some space below the text box */
+    }
+    </style>
+</head>
+<body>
+    <form id="sentenceForm">
+        <input type="text" id="sentenceInput" placeholder="Enter a sentence">
+        <button type="submit">Submit</button>
+    </form>
+
+    <svg id="visualization"></svg>
+    <script>
+        document.getElementById('sentenceForm').onsubmit = function(event) {
+            event.preventDefault();
+            var sentence = document.getElementById('sentenceInput').value;
+            fetch('/process', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({sentence: sentence}),
+            })
+            .then(response => response.json())
+            .then(data => {
+                createVisualization(data.names, data.connections);
+            });
+        };
+    
+        function createVisualization(names, connections) {
+            const svg = document.getElementById('visualization');
+            svg.innerHTML = ''; // Clear previous visualization
+            const radius = 30; // Circle radius
+            const svgWidth = svg.clientWidth;
+            const svgHeight = svg.clientHeight;
+    
+            const gridRows = Math.ceil(Math.sqrt(names.length));
+            const gridCols = Math.ceil(names.length / gridRows);
+            const cellWidth = svgWidth / gridCols;
+            const cellHeight = svgHeight / gridRows;
+    
+            names.forEach((name, index) => {
+                const row = Math.floor(index / gridCols);
+                const col = index % gridCols;
+                const cx = (col + 0.5) * cellWidth;
+                const cy = (row + 0.5) * cellHeight;
+    
+                // Create circle
+                const circle = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
+                circle.setAttribute('cx', cx);
+                circle.setAttribute('cy', cy);
+                circle.setAttribute('r', radius);
+                circle.setAttribute('class', 'circle');
+                circle.dataset.name = name;
+                svg.appendChild(circle);
+    
+                // Create text
+                const text = document.createElementNS('http://www.w3.org/2000/svg', 'text');
+                text.setAttribute('x', cx);
+                text.setAttribute('y', cy + radius + 15);
+                text.setAttribute('text-anchor', 'middle');
+                text.textContent = name;
+                svg.appendChild(text);
+    
+                // Check if the circle is a key in the connections object
+                // Check if the circle is a key in the connections object
+if (connections[name]) {
+    circle.style.stroke = 'red'; // Key circles have pink stroke
+    circle.style.strokeWidth = '8px'; // and thicker stroke width
+
+    circle.addEventListener('click', function() {
+        // Clear all previous highlights
+        svg.querySelectorAll('.highlighted').forEach(el => {
+            el.classList.remove('highlighted');
+            el.style.stroke = ''; // Reset the stroke color
+            el.style.strokeWidth = ''; // Reset the stroke width
+        });
+
+        // Highlight connections for this key
+        connections[name].forEach(valueName => {
+            const valueCircle = svg.querySelector(`circle[data-name="${valueName}"]`);
+            if (valueCircle) {
+                valueCircle.classList.add('highlighted');
+                valueCircle.style.stroke = 'orange'; // Set the stroke color to orange for value circles
+                valueCircle.style.strokeWidth = '9px'; // Increase the stroke width for visibility
+            }
+            const line = drawLine(circle, valueCircle);
+            line.classList.add('highlighted'); // Add class to highlight the line
+        });
+    });
+}
+
+            });
+    
+            function drawLine(sourceCircle, targetCircle) {
+                const line = document.createElementNS('http://www.w3.org/2000/svg', 'line');
+                line.setAttribute('x1', sourceCircle.getAttribute('cx'));
+                line.setAttribute('y1', sourceCircle.getAttribute('cy'));
+                line.setAttribute('x2', targetCircle.getAttribute('cx'));
+                line.setAttribute('y2', targetCircle.getAttribute('cy'));
+                line.setAttribute('class', 'line');
+                svg.insertBefore(line, svg.firstChild); // Ensure lines are below circles
+                return line;
+            }
+        }
+    </script>
+    
+    
+</body>
+</html>

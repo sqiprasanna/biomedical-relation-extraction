@@ -1,0 +1,39 @@
+2024-04-08 11:34:32,125: Starting prediction logging
+2024-04-08 11:35:08,618: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-04-08 11:35:08,618: These results suggest that the C1772T polymorphism in @GENE$ is not involved in progression or metastasis of @DISEASE$.
+2024-04-08 11:35:35,408: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-04-08 11:35:35,409: In our setting, @DISEASE$ among alcoholic individuals seems to be independent of the presence of mutations C282Y, H63D and S65C in the @GENE$ gene.
+2024-04-08 11:36:29,475: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-04-08 11:36:29,475: MPO genotype GG is associated with @DISEASE$ in patients with hereditary @GENE$.
+2024-04-08 11:37:22,167: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-04-08 11:37:22,168: These three studies do not provide consistent evidence supporting the hypothesis that @GENE$ mutations are associated with an increased risk of @DISEASE$ and with the development of arteriosclerosis.
+2024-04-08 11:37:40,518: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-04-08 11:37:40,518: Error parsing the dictionary: malformed node or string on line 2: <ast.Name object at 0x0000022D647DEE10>
+2024-04-08 11:37:40,518: Our prospective findings suggest that individuals carrying the @GENE$ C282Y mutation may be at increased risk of @DISEASE$.
+2024-04-08 14:14:28,190: Starting prediction logging
+2024-04-08 14:16:17,089: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-04-08 14:16:42,689: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-04-08 14:16:42,690: In our setting, @DISEASE$ among alcoholic individuals seems to be independent of the presence of mutations C282Y, H63D and S65C in the @GENE$ gene.
+2024-04-08 14:17:10,602: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-04-08 14:17:10,602: MPO genotype GG is associated with @DISEASE$ in patients with hereditary @GENE$.
+2024-04-08 14:17:36,607: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-04-08 14:18:00,458: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-04-08 14:18:00,458: Error parsing the dictionary: malformed node or string on line 2: <ast.Name object at 0x000002996984BC10>
+2024-04-08 14:45:02,783: Starting prediction logging
+2024-04-08 14:46:17,622: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-04-08 14:46:43,291: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-04-08 14:46:43,292: In our setting, @DISEASE$ among alcoholic individuals seems to be independent of the presence of mutations C282Y, H63D and S65C in the @GENE$ gene.
+2024-04-08 14:47:08,517: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-04-08 14:47:08,518: MPO genotype GG is associated with @DISEASE$ in patients with hereditary @GENE$.
+2024-04-08 14:47:36,618: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-04-08 14:47:57,373: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-04-08 14:47:57,373: Error parsing the dictionary: malformed node or string on line 2: <ast.Name object at 0x0000028377EFD9D0>
+2024-04-08 15:38:40,486: Starting prediction logging
+2024-04-08 15:38:40,878: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 404 Not Found"
+2024-04-08 15:39:18,467: Starting prediction logging
+2024-04-08 15:42:59,209: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-04-08 15:44:02,517: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-04-08 15:45:30,366: Starting prediction logging
+2024-04-08 15:45:30,772: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 404 Not Found"
+2024-04-08 15:58:10,307: Starting prediction logging
+2024-04-08 15:59:37,482: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"

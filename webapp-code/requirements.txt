@@ -1,0 +1,7 @@
+Flask
+openai
+weaviate-client
+spacy
+scispacy
+nltk
+transformers

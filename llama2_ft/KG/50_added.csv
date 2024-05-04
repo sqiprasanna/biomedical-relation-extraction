@@ -1,0 +1,337 @@
+ent1,ent2
+me2,haplotype ag
+rs3743500,haplotype ag
+haplotypes gc,haplotype ag
+nrg3,haplotype ag
+rs3826047,haplotype ag
+nptn,haplotype ag
+psychotic,schizophrenia
+bipolar disorder,schizophrenia
+rs10735810,snps in the vdr
+mm,bc
+il-23,tnf)-alpha
+tissue inhibitors of metalloproteinases,tnf)-alpha
+tumor necrosis factor,tnf)-alpha
+ibd,inflammatory bowel diseases
+chronic mucosal inflammation,inflammatory bowel diseases
+cyp1a1,cytochrome p450 1a1
+ttac/ccag,cytochrome p450 1a1
+rs4886605,cytochrome p450 1a1
+hepatocellular carcinoma,hcc
+rs11209026,g2677t/a
+nlrp3,g2677t/a
+nod2,g2677t/a
+il23r haplotypes,g2677t/a
+il23r,g2677t/a
+granulocyte-macrophage colony-stimulating factor,g2677t/a
+nalp3,g2677t/a
+mdr1,g2677t/a
+toll-like receptor,g2677t/a
+inflammatory bowel disease,ulcerative colitis
+crohn's disease,ulcerative colitis
+arg399gln,rad51
+pro72arg,rad51
+xrcc3,rad51
+liglv asp62his,rad51
+trp46ter,rad51
+pro231ser,rad51
+ligiv,rad51
+xrcc1,rad51
+15455419a>g,rad51
+gln221glu,rad51
+rad52 gln221glu,rad51
+carcinogenesis,papillary thyroid cancer
+thyroid cancer,papillary thyroid cancer
+wnt,krüppel-like factor 5
+rs11209026,mmp-3
+nod2,mmp-3
+variants in the il23r,mmp-3
+il23r r381q,mmp-3
+il23r,mmp-3
+g908r,mmp-3
+timp-1 genotype tt,mmp-3
+nf kappab -94attg,mmp-3
+tnf-alpha-g308a,mmp-3
+l1007fsinsc,mmp-3
+r381q,mmp-3
+tlr,mmp-3
+tnf-alpha,mmp-3
+crohn's disease,cd
+vegf,hairy and enhancer of split homolog-1
+hairy and enhancer of split homologue-1,hairy and enhancer of split homolog-1
+flt-1,hairy and enhancer of split homolog-1
+arg399gln,rad52 gln221glu
+pro72arg,rad52 gln221glu
+xrcc3,rad52 gln221glu
+liglv asp62his,rad52 gln221glu
+trp46ter,rad52 gln221glu
+pro231ser,rad52 gln221glu
+ligiv,rad52 gln221glu
+xrcc1,rad52 gln221glu
+15455419a>g,rad52 gln221glu
+gln221glu,rad52 gln221glu
+tissue inhibitors of metalloproteinases,tumor necrosis factor
+recalcitrant crswnp,crswnp
+arg399gln,xrcc1
+pro72arg,xrcc1
+xrcc3,xrcc1
+liglv asp62his,xrcc1
+trp46ter,xrcc1
+pro231ser,xrcc1
+ligiv,xrcc1
+15455419a>g,xrcc1
+gln221glu,xrcc1
+col1a2,rs42524
+arg399gln,trp46ter
+pro72arg,trp46ter
+xrcc3,trp46ter
+liglv asp62his,trp46ter
+pro231ser,trp46ter
+ligiv,trp46ter
+15455419a>g,trp46ter
+gln221glu,trp46ter
+nod2,il23r
+nf kappab -94attg,il23r
+il23r haplotypes,il23r
+g908r,il23r
+r381q,il23r
+nalp3,il23r
+toll-like receptor,il23r
+tnf-alpha,il23r
+rs11209026,il23r
+nlrp3,il23r
+variants in the il23r,il23r
+il23r r381q,il23r
+timp-1 genotype tt,il23r
+tnf-alpha-g308a,il23r
+l1007fsinsc,il23r
+granulocyte-macrophage colony-stimulating factor,il23r
+tlr,il23r
+mdr1,il23r
+inflammatory bowel disease,crohn's disease
+rs11209026,il23r haplotypes
+nlrp3,il23r haplotypes
+nod2,il23r haplotypes
+granulocyte-macrophage colony-stimulating factor,il23r haplotypes
+nalp3,il23r haplotypes
+mdr1,il23r haplotypes
+toll-like receptor,il23r haplotypes
+epsilon2,stk39
+rs11209026,variants in the il23r
+nod2,variants in the il23r
+nf kappab -94attg,variants in the il23r
+il23r r381q,variants in the il23r
+g908r,variants in the il23r
+timp-1 genotype tt,variants in the il23r
+tnf-alpha-g308a,variants in the il23r
+l1007fsinsc,variants in the il23r
+r381q,variants in the il23r
+tlr,variants in the il23r
+tnf-alpha,variants in the il23r
+-819c/t,-819t
+il-10,-819t
+tlr1,-819t
+602s,-819t
+mycobacterium leprae antigens,leprosy
+rs11209026,timp-1 genotype tt
+nod2,timp-1 genotype tt
+il23r r381q,timp-1 genotype tt
+g908r,timp-1 genotype tt
+nf kappab -94attg,timp-1 genotype tt
+tnf-alpha-g308a,timp-1 genotype tt
+l1007fsinsc,timp-1 genotype tt
+r381q,timp-1 genotype tt
+tlr,timp-1 genotype tt
+tnf-alpha,timp-1 genotype tt
+ttac/ccag,cyp1a1
+rs4886605,cyp1a1
+chi3l1,g.-247c/t
+rs10399805,g.-247c/t
+rs2275353,g.-247c/t
+atopic,atopy
+rs11209026,granulocyte-macrophage colony-stimulating factor
+nlrp3,granulocyte-macrophage colony-stimulating factor
+nod2,granulocyte-macrophage colony-stimulating factor
+nalp3,granulocyte-macrophage colony-stimulating factor
+mdr1,granulocyte-macrophage colony-stimulating factor
+toll-like receptor,granulocyte-macrophage colony-stimulating factor
+intestinal cancer,colitis
+arg399gln,gln221glu
+pro72arg,gln221glu
+xrcc3,gln221glu
+liglv asp62his,gln221glu
+pro231ser,gln221glu
+ligiv,gln221glu
+15455419a>g,gln221glu
+rs7566605,enpp1
+insulin resistance,hcv infection
+hepatitis c,hcv infection
+obesity,hcv infection
+nf kappab -94attg,nod2
+g908r,nod2
+r381q,nod2
+nalp3,nod2
+toll-like receptor,nod2
+tnf-alpha,nod2
+rs11209026,nod2
+nlrp3,nod2
+il23r r381q,nod2
+tnf-alpha-g308a,nod2
+l1007fsinsc,nod2
+tlr,nod2
+mdr1,nod2
+rs11594656,rs706778
+il2ra,rs706778
+rs3118470,rs706778
+rs11209026,tlr
+il23r r381q,tlr
+g908r,tlr
+nf kappab -94attg,tlr
+tnf-alpha-g308a,tlr
+l1007fsinsc,tlr
+r381q,tlr
+tnf-alpha,tlr
+rs3743500,nrg3
+me2,nrg3
+haplotypes gc,nrg3
+rs3826047,nrg3
+nptn,nrg3
+hairy and enhancer of split homologue-1,vegf
+flt-1,vegf
+rs2108622,cyp4f2
+myocardial infarction,mi
+nos1ap rs7538490,rs7566605
+pklr rs3020781,rs7566605
+k121q,rs7566605
+insulin resistance,hepatitis c
+obesity,hepatitis c
+metastatic colorectal cancer,metastasis
+rs11209026,il23r r381q
+nf kappab -94attg,il23r r381q
+g908r,il23r r381q
+tnf-alpha-g308a,il23r r381q
+l1007fsinsc,il23r r381q
+r381q,il23r r381q
+tnf-alpha,il23r r381q
+rs11209026,mdr1
+nlrp3,mdr1
+nalp3,mdr1
+toll-like receptor,mdr1
+rs11209026,nlrp3
+nalp3,nlrp3
+toll-like receptor,nlrp3
+asp1104asp,xpd asn312asn
+squamous cell carcinoma,oral leukoplakia
+oscc,oral leukoplakia
+inflammation,oral leukoplakia
+hairy and enhancer of split homologue-1,flt-1
+rs677221-g,rs1937970-a
+rs3743500,haplotypes gc
+me2,haplotypes gc
+rs3826047,haplotypes gc
+nptn,haplotypes gc
+rs11594656,rs3118470
+il2ra,rs3118470
+il-1alpha tt -889,tnfalpha gene polymorphisms
+tnfalpha g -308 allele,tnfalpha gene polymorphisms
+rs3743500,me2
+rs3826047,me2
+nptn,me2
+bipolar disorder,psychotic
+rs11209026,l1007fsinsc
+g908r,l1007fsinsc
+nf kappab -94attg,l1007fsinsc
+tnf-alpha-g308a,l1007fsinsc
+r381q,l1007fsinsc
+tnf-alpha,l1007fsinsc
+mhc,rs2395029
+syndecan 2,rs2395029
+rs2575735,rs2395029
+rs12198173,rs2395029
+rs3093662,rs2395029
+arg399gln,pro72arg
+xrcc3,pro72arg
+liglv asp62his,pro72arg
+pro231ser,pro72arg
+ligiv,pro72arg
+15455419a>g,pro72arg
+rs3826047,rs3743500
+nptn,rs3743500
+rs7538490,pklr rs3020781
+t-allele of nos1ap rs7538490,pklr rs3020781
+nos1ap rs7538490,pklr rs3020781
+k121q,pklr rs3020781
+nos1ap,pklr rs3020781
+insulin resistance,obesity
+type 2 diabetes,obesity
+chi3l1,rs10399805
+rs2275353,rs10399805
+rs3826047,nptn
+rs2165241,loxl1
+loxl1 polymorphisms,loxl1
+poag,exfoliation glaucoma
+ghrhr mrna,ghrh
+xrcc3,gpx2
+hypopharyngeal cancer,oropharyngeal
+rs7538490,t-allele of nos1ap rs7538490
+nos1ap,t-allele of nos1ap rs7538490
+-819c/t,il-10
+tlr1,il-10
+602s,il-10
+tlr1,602s
+-819c/t,602s
+rs11209026,r381q
+g908r,r381q
+nf kappab -94attg,r381q
+tnf-alpha-g308a,r381q
+tnf-alpha,r381q
+rs11209026,tnf-alpha
+g908r,tnf-alpha
+nf kappab -94attg,tnf-alpha
+tnf-alpha-g308a,tnf-alpha
+nos1ap rs7538490,k121q
+arg399gln,pro231ser
+xrcc3,pro231ser
+liglv asp62his,pro231ser
+ligiv,pro231ser
+15455419a>g,pro231ser
+tnfalpha g -308 allele,il-1alpha tt -889
+rs11594656,il2ra
+oscc,inflammation
+squamous cell carcinoma,inflammation
+rs2275353,chi3l1
+rs4886605,ttac/ccag
+rs7538490,nos1ap
+xrcc3,arg399gln
+liglv asp62his,arg399gln
+ligiv,arg399gln
+15455419a>g,arg399gln
+squamous cell carcinoma,oscc
+loxl1 polymorphisms,rs2165241
+nf kappab -94attg,rs11209026
+g908r,rs11209026
+nalp3,rs11209026
+toll-like receptor,rs11209026
+tnf-alpha-g308a,rs11209026
+glra1,sh3tc2
+toll-like receptor,nalp3
+liglv asp62his,xrcc3
+ligiv,xrcc3
+15455419a>g,xrcc3
+nf kappab -94attg,g908r
+tnf-alpha-g308a,g908r
+syndecan 2,mhc
+rs2575735,mhc
+rs12198173,mhc
+rs3093662,mhc
+-819c/t,tlr1
+syndecan 2,rs12198173
+rs2575735,rs12198173
+rs3093662,rs12198173
+syndecan 2,rs3093662
+rs2575735,rs3093662
+rs2575735,syndecan 2
+ligiv,liglv asp62his
+15455419a>g,liglv asp62his
+15455419a>g,ligiv
+nf kappab -94attg,tnf-alpha-g308a

@@ -1,0 +1,54 @@
+ent1,ent2
+haplotype ag,rs3743500
+nptn,rs3743500
+haplotypes gc,rs3743500
+trp46ter,pro72arg
+pro231ser,pro72arg
+ligiv,pro72arg
+rad52 gln221glu,pro72arg
+thyroid cancer,papillary thyroid cancer
+haplotype ag,haplotypes gc
+nptn,haplotypes gc
+pro231ser,ligiv
+trp46ter,ligiv
+rad52 gln221glu,ligiv
+nlrp3,il23r haplotypes
+granulocyte-macrophage colony-stimulating factor,il23r haplotypes
+toll-like receptor,il23r haplotypes
+nalp3,il23r haplotypes
+g2677t/a,il23r haplotypes
+rs11209026,il23r haplotypes
+ulcerative colitis,crohn's disease
+trp46ter,rad52 gln221glu
+pro231ser,rad52 gln221glu
+nlrp3,granulocyte-macrophage colony-stimulating factor
+toll-like receptor,granulocyte-macrophage colony-stimulating factor
+nalp3,granulocyte-macrophage colony-stimulating factor
+g2677t/a,granulocyte-macrophage colony-stimulating factor
+rs11209026,granulocyte-macrophage colony-stimulating factor
+pro231ser,trp46ter
+pklr rs3020781,nos1ap
+obesity,type 2 diabetes
+rs4886605,cytochrome p450 1a1
+cyp1a1,cytochrome p450 1a1
+nlrp3,g2677t/a
+toll-like receptor,g2677t/a
+nalp3,g2677t/a
+rs11209026,g2677t/a
+mdr1,g2677t/a
+cyp1a1,rs4886605
+mm,bc
+nptn,haplotype ag
+-819t,tlr1
+mycobacterium leprae antigens,leprosy
+tlr,nod2
+pklr rs3020781,k121q
+il-1alpha tt -889,tnfalpha g -308 allele
+toll-like receptor,nlrp3
+nalp3,nlrp3
+rs11209026,nlrp3
+hairy and enhancer of split homolog-1,flt-1
+toll-like receptor,nalp3
+rs11209026,nalp3
+ghrh,ghrhr mrna
+toll-like receptor,rs11209026

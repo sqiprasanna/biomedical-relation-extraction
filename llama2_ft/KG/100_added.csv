@@ -1,0 +1,803 @@
+ent1,ent2
+hes-1,vegf
+hairy and enhancer of split homolog-1,vegf
+hairy and enhancer of split homologue-1,vegf
+vegfr-1,vegf
+flt-1,vegf
+gpx2,gpx1
+carcinogenesis,colitis
+intestinal cancer,colitis
+-819t,tlr1
+-819c/t,tlr1
+il-10,tlr1
+interleukin-10 promoter single-nucleotide polymorphisms,tlr1
+602s,tlr1
+tlr,tlr1
+cd,leprosy
+mycobacterium leprae antigens,leprosy
+hus,bloody diarrhea
+hemolytic-uremic syndrome,bloody diarrhea
+stec o157 infection,bloody diarrhea
+ss52580101,rs706778
+il2ra,rs706778
+rs11594656,rs706778
+rs3118470,rs706778
+cypa,cyclophilin a
+il22r1,il-22r1
+crssnp,crswnp
+recalcitrant crswnp,crswnp
+ckd,chronic kidney disease
+insig2 rs7566605,enpp)-1
+insig2,enpp)-1
+nos1ap rs7538490,enpp)-1
+pklr rs3020781,enpp)-1
+rs7566605,enpp)-1
+k121q,enpp)-1
+hepatitis c,insulin resistance
+hcv infection,insulin resistance
+obesity,insulin resistance
+nptn,me2
+rs677221-c,me2
+rs677221,me2
+rs1937970,me2
+haplotype gc,me2
+haplotypes gc,me2
+rs1937970-rs677221,me2
+haplotype ag,me2
+rs3743500,me2
+nrg3,me2
+rs3840846,me2
+rs3826047,me2
+schizophrenia,psychotic
+bipolar disorder,psychotic
+manic disorders,psychotic
+psychosis,psychotic
+rs491347,rs1784235
+lrp5,rs1784235
+r381q,gm-csf
+il23r,gm-csf
+l1007fsinsc,gm-csf
+nod2,gm-csf
+nf kappab -94attg,gm-csf
+fcgiiia g559t,gm-csf
+mmp-3,gm-csf
+card15,gm-csf
+timp-1,gm-csf
+tnf-alpha-g308a,gm-csf
+il23r r381q,gm-csf
+snp +372 t/c,gm-csf
+rs11209026,gm-csf
+nod2 snp,gm-csf
+variants in the il23r,gm-csf
+g908r,gm-csf
+timp-1 genotype tt,gm-csf
+tlr,gm-csf
+5t5t genotype at mmp-3 snp -1613 5t/6t,gm-csf
+tnf-alpha,gm-csf
+crohn's disease,cd
+fistulae,cd
+rs42524,col1a2
+intracranial aneurysms,ias
+r381q,il23r r381q
+toll-like receptor,il23r r381q
+il23r,il23r r381q
+nalp3,il23r r381q
+nlrp3,il23r r381q
+nod2,il23r r381q
+nf kappab -94attg,il23r r381q
+nucleotide oligomerization domain 2,il23r r381q
+fcgiiia g559t,il23r r381q
+g2677t/a,il23r r381q
+mmp-3,il23r r381q
+timp-1,il23r r381q
+card15,il23r r381q
+tnf-alpha-g308a,il23r r381q
+rs11209026,il23r r381q
+snp +372 t/c,il23r r381q
+nod2 snp,il23r r381q
+mdr1,il23r r381q
+granulocyte-macrophage colony-stimulating factor,il23r r381q
+il23r haplotypes,il23r r381q
+5t5t genotype at mmp-3 snp -1613 5t/6t,il23r r381q
+variants in the il23r,il23r r381q
+g908r,il23r r381q
+timp-1 genotype tt,il23r r381q
+tlr,il23r r381q
+l1007fsinsc,il23r r381q
+tnf-alpha,il23r r381q
+ulcerative colitis,crohn's disease
+inflammatory bowel disease,crohn's disease
+liglv asp62his,rad51
+rad52 gln221glu,rad51
+tp53,rad51
+arg399gln,rad51
+xrcc1,rad51
+thr241met,rad51
+arg280his,rad51
+gln221glu,rad51
+trp46ter,rad51
+pro231ser,rad51
+pro72arg,rad51
+arg559gln,rad51
+xrcc7,rad51
+ligiv,rad51
+xrcc3,rad51
+15455419a>g,rad51
+gastric cancer,papillary thyroid cancer
+thyroid cancer,papillary thyroid cancer
+carcinogenesis,papillary thyroid cancer
+nos1ap,pklr
+t-allele of nos1ap rs7538490,pklr
+rs7538490,pklr
+rs3020781,pklr
+c-allele of pklr rs3020781,pklr
+nos1ap rs7538490,pklr
+pklr rs3020781,pklr
+overweight,type 2 diabetes
+obesity,type 2 diabetes
+diabetes-related quantitative metabolic phenotypes,type 2 diabetes
+pds,pyridoxine dependent seizures
+ttac/ccag,cyp1a1
+rs2198843,cyp1a1
+cytochrome p450 1a1,cyp1a1
+rs4886605,cyp1a1
+hepatocellular carcinoma,hcc
+rs1048661,loxl1
+rs3825942,loxl1
+loxl1 polymorphisms,loxl1
+rs2165241,loxl1
+exfoliation glaucoma,poag
+exfoliation syndrome,poag
+r381q,timp-1
+il23r,timp-1
+l1007fsinsc,timp-1
+nod2,timp-1
+nf kappab -94attg,timp-1
+fcgiiia g559t,timp-1
+mmp-3,timp-1
+card15,timp-1
+tnf-alpha-g308a,timp-1
+snp +372 t/c,timp-1
+rs11209026,timp-1
+nod2 snp,timp-1
+variants in the il23r,timp-1
+g908r,timp-1
+timp-1 genotype tt,timp-1
+tlr,timp-1
+5t5t genotype at mmp-3 snp -1613 5t/6t,timp-1
+tnf-alpha,timp-1
+hes-1,flt-1
+hairy and enhancer of split homolog-1,flt-1
+hairy and enhancer of split homologue-1,flt-1
+vegfr-1,flt-1
+rs731236,vdr
+rs2228570,vdr
+cdc6 g1321a,vdr
+rs10735810,vdr
+snps in the vdr,vdr
+bc,mm
+malignant melanoma,mm
+sporadic breast cancer,mm
+cancer,mm
+liglv asp62his,rad52 gln221glu
+tp53,rad52 gln221glu
+arg399gln,rad52 gln221glu
+xrcc1,rad52 gln221glu
+thr241met,rad52 gln221glu
+arg280his,rad52 gln221glu
+gln221glu,rad52 gln221glu
+trp46ter,rad52 gln221glu
+pro231ser,rad52 gln221glu
+pro72arg,rad52 gln221glu
+arg559gln,rad52 gln221glu
+xrcc7,rad52 gln221glu
+ligiv,rad52 gln221glu
+xrcc3,rad52 gln221glu
+15455419a>g,rad52 gln221glu
+nptn,haplotype gc
+rs677221,haplotype gc
+rs677221-c,haplotype gc
+rs1937970,haplotype gc
+haplotypes gc,haplotype gc
+rs1937970-rs677221,haplotype gc
+haplotype ag,haplotype gc
+nrg3,haplotype gc
+rs3743500,haplotype gc
+rs3840846,haplotype gc
+rs3826047,haplotype gc
+bipolar disorder,schizophrenia
+manic disorders,schizophrenia
+psychosis,schizophrenia
+rs2108622,cyp4f2
+myocardial infarction,mi
+rs13199524,mhc
+syndecan 2,mhc
+rs3093662,mhc
+rs2395029,mhc
+rs6503919,mhc
+rs12198173,mhc
+rs2575735,mhc
+insig2 rs7566605,k121q
+insig2,k121q
+nos1ap rs7538490,k121q
+pklr rs3020781,k121q
+rs7566605,k121q
+enpp1,k121q
+nos1ap,nos1ap rs7538490
+t-allele of nos1ap rs7538490,nos1ap rs7538490
+rs7538490,nos1ap rs7538490
+insig2 rs7566605,nos1ap rs7538490
+insig2,nos1ap rs7538490
+rs3020781,nos1ap rs7538490
+c-allele of pklr rs3020781,nos1ap rs7538490
+pklr rs3020781,nos1ap rs7538490
+rs7566605,nos1ap rs7538490
+liglv asp62his,trp46ter
+tp53,trp46ter
+arg399gln,trp46ter
+xrcc1,trp46ter
+thr241met,trp46ter
+arg280his,trp46ter
+gln221glu,trp46ter
+pro231ser,trp46ter
+pro72arg,trp46ter
+arg559gln,trp46ter
+xrcc7,trp46ter
+ligiv,trp46ter
+xrcc3,trp46ter
+15455419a>g,trp46ter
+ghrh,ghrhr mrna
+ghrh receptor,ghrhr mrna
+hbf,fetal haemoglobin
+hbs1l-myb,fetal haemoglobin
+6q23,fetal haemoglobin
+beta-thalassaemia,hbb disorders
+nptn,nrg3
+rs677221,nrg3
+rs677221-c,nrg3
+rs1937970,nrg3
+haplotypes gc,nrg3
+rs1937970-rs677221,nrg3
+haplotype ag,nrg3
+rs3743500,nrg3
+rs3840846,nrg3
+rs3826047,nrg3
+t393c polymorphism of the gnas1,t393c
+hypopharyngeal cancer,oropharyngeal
+hypopharyngeal squamous cell carcinoma,oropharyngeal
+hes-1,vegfr-1
+hairy and enhancer of split homolog-1,vegfr-1
+hairy and enhancer of split homologue-1,vegfr-1
+epsilon4,epsilon2
+stk39,epsilon2
+tumor necrosis factor,tissue inhibitors of metalloproteinases
+tnf)-alpha,tissue inhibitors of metalloproteinases
+il-23,tissue inhibitors of metalloproteinases
+ibd,inflammatory bowel diseases
+chronic mucosal inflammation,inflammatory bowel diseases
+ttac/ccag,cytochrome p450 1a1
+rs2198843,cytochrome p450 1a1
+rs4886605,cytochrome p450 1a1
+rs13199524,rs6503919
+syndecan 2,rs6503919
+rs3093662,rs6503919
+rs2395029,rs6503919
+rs12198173,rs6503919
+rs2575735,rs6503919
+krüppel-like factor 5,wnt
+beta-catenin,wnt
+t-allele of nos1ap rs7538490,nos1ap
+rs7538490,nos1ap
+rs3020781,nos1ap
+c-allele of pklr rs3020781,nos1ap
+pklr rs3020781,nos1ap
+rs2275353,g.-247c/t
+chi3l1,g.-247c/t
+chitinase 3-like 1,g.-247c/t
+ivs7+82c/t,g.-247c/t
+rs10399805,g.-247c/t
+atopic,atopy
+rs731236,snps in the vdr
+rs10735810,snps in the vdr
+rs2228570,snps in the vdr
+malignant melanoma,bc
+sporadic breast cancer,bc
+cancer,bc
+tnfsf4,tnfsf4 haplotypes
+ox40l,tnfsf4 haplotypes
+systemic lupus erythematosus,sle
+insig2 rs7566605,insig2
+pklr rs3020781,insig2
+rs7566605,insig2
+hcv infection,obesity
+overweight,obesity
+hepatitis c,obesity
+adiposity,obesity
+xrcc3,cdc6
+gpx2,cdc6
+rs4251961 t/t,il-1ra
+rs579543 t/t,il-1ra
+metastatic colorectal cancer,metastasis
+tumor angiogenesis,metastasis
+rs13199524,syndecan 2
+rs3093662,syndecan 2
+rs2395029,syndecan 2
+rs12198173,syndecan 2
+rs2575735,syndecan 2
+ss52580101,rs3118470
+il2ra,rs3118470
+rs11594656,rs3118470
+nptn,rs677221
+rs677221-c,rs677221
+rs1937970,rs677221
+haplotypes gc,rs677221
+rs1937970-rs677221,rs677221
+haplotype ag,rs677221
+rs3743500,rs677221
+rs3840846,rs677221
+rs3826047,rs677221
+glra1,sh3tc2
+t-allele of nos1ap rs7538490,rs7538490
+rs3020781,rs7538490
+c-allele of pklr rs3020781,rs7538490
+pklr rs3020781,rs7538490
+vascular stiffness,vascular calcification
+aortic stiffness,vascular calcification
+r381q,tlr
+il23r,tlr
+-819t,tlr
+l1007fsinsc,tlr
+nod2,tlr
+nf kappab -94attg,tlr
+interleukin-10 promoter single-nucleotide polymorphisms,tlr
+fcgiiia g559t,tlr
+602s,tlr
+mmp-3,tlr
+card15,tlr
+tnf-alpha-g308a,tlr
+snp +372 t/c,tlr
+rs11209026,tlr
+nod2 snp,tlr
+-819c/t,tlr
+il-10,tlr
+variants in the il23r,tlr
+g908r,tlr
+timp-1 genotype tt,tlr
+5t5t genotype at mmp-3 snp -1613 5t/6t,tlr
+tnf-alpha,tlr
+rs2275353,chi3l1
+chitinase 3-like 1,chi3l1
+ivs7+82c/t,chi3l1
+rs10399805,chi3l1
+mdr1,il23r variant
+ulcerative colitis,inflammatory bowel disease
+his1104his,xpd asn312asn
+his1104asp,xpd asn312asn
+asp1104asp,xpd asn312asn
+-819c/t,-819t
+il-10,-819t
+interleukin-10 promoter single-nucleotide polymorphisms,-819t
+602s,-819t
+liglv asp62his,xrcc7
+tp53,xrcc7
+arg399gln,xrcc7
+xrcc1,xrcc7
+thr241met,xrcc7
+arg280his,xrcc7
+gln221glu,xrcc7
+pro231ser,xrcc7
+pro72arg,xrcc7
+arg559gln,xrcc7
+ligiv,xrcc7
+xrcc3,xrcc7
+15455419a>g,xrcc7
+bipolar disorder,psychosis
+manic disorders,psychosis
+r381q,l1007fsinsc
+il23r,l1007fsinsc
+nod2,l1007fsinsc
+nf kappab -94attg,l1007fsinsc
+fcgiiia g559t,l1007fsinsc
+mmp-3,l1007fsinsc
+card15,l1007fsinsc
+tnf-alpha-g308a,l1007fsinsc
+snp +372 t/c,l1007fsinsc
+rs11209026,l1007fsinsc
+nod2 snp,l1007fsinsc
+variants in the il23r,l1007fsinsc
+g908r,l1007fsinsc
+timp-1 genotype tt,l1007fsinsc
+5t5t genotype at mmp-3 snp -1613 5t/6t,l1007fsinsc
+tnf-alpha,l1007fsinsc
+r381q,il23r
+toll-like receptor,il23r
+nalp3,il23r
+nlrp3,il23r
+nod2,il23r
+nf kappab -94attg,il23r
+fcgiiia g559t,il23r
+nucleotide oligomerization domain 2,il23r
+g2677t/a,il23r
+mmp-3,il23r
+card15,il23r
+tnf-alpha-g308a,il23r
+snp +372 t/c,il23r
+rs11209026,il23r
+nod2 snp,il23r
+mdr1,il23r
+granulocyte-macrophage colony-stimulating factor,il23r
+il23r haplotypes,il23r
+variants in the il23r,il23r
+g908r,il23r
+timp-1 genotype tt,il23r
+5t5t genotype at mmp-3 snp -1613 5t/6t,il23r
+tnf-alpha,il23r
+rs579543 t/t,rs4251961 t/t
+tumor angiogenesis,metastatic colorectal cancer
+toll-like receptor,g2677t/a
+rs11209026,g2677t/a
+nalp3,g2677t/a
+nlrp3,g2677t/a
+mdr1,g2677t/a
+granulocyte-macrophage colony-stimulating factor,g2677t/a
+il23r haplotypes,g2677t/a
+nod2,g2677t/a
+nucleotide oligomerization domain 2,g2677t/a
+epsilon4,stk39
+r381q,mmp-3
+nod2,mmp-3
+nf kappab -94attg,mmp-3
+fcgiiia g559t,mmp-3
+card15,mmp-3
+tnf-alpha-g308a,mmp-3
+snp +372 t/c,mmp-3
+rs11209026,mmp-3
+nod2 snp,mmp-3
+variants in the il23r,mmp-3
+g908r,mmp-3
+timp-1 genotype tt,mmp-3
+5t5t genotype at mmp-3 snp -1613 5t/6t,mmp-3
+tnf-alpha,mmp-3
+mmp,matrix metalloproteinase
+liglv asp62his,arg280his
+tp53,arg280his
+arg399gln,arg280his
+xrcc1,arg280his
+thr241met,arg280his
+gln221glu,arg280his
+pro231ser,arg280his
+pro72arg,arg280his
+arg559gln,arg280his
+ligiv,arg280his
+xrcc3,arg280his
+15455419a>g,arg280his
+insig2 rs7566605,rs7566605
+pklr rs3020781,rs7566605
+enpp1,rs7566605
+r381q,nod2
+toll-like receptor,nod2
+nalp3,nod2
+nlrp3,nod2
+nf kappab -94attg,nod2
+fcgiiia g559t,nod2
+nucleotide oligomerization domain 2,nod2
+card15,nod2
+tnf-alpha-g308a,nod2
+snp +372 t/c,nod2
+rs11209026,nod2
+nod2 snp,nod2
+mdr1,nod2
+granulocyte-macrophage colony-stimulating factor,nod2
+il23r haplotypes,nod2
+variants in the il23r,nod2
+g908r,nod2
+timp-1 genotype tt,nod2
+5t5t genotype at mmp-3 snp -1613 5t/6t,nod2
+tnf-alpha,nod2
+t-allele of nos1ap rs7538490,pklr rs3020781
+insig2 rs7566605,pklr rs3020781
+rs3020781,pklr rs3020781
+c-allele of pklr rs3020781,pklr rs3020781
+r381q,variants in the il23r
+nf kappab -94attg,variants in the il23r
+fcgiiia g559t,variants in the il23r
+card15,variants in the il23r
+tnf-alpha-g308a,variants in the il23r
+snp +372 t/c,variants in the il23r
+rs11209026,variants in the il23r
+nod2 snp,variants in the il23r
+g908r,variants in the il23r
+timp-1 genotype tt,variants in the il23r
+5t5t genotype at mmp-3 snp -1613 5t/6t,variants in the il23r
+tnf-alpha,variants in the il23r
+liglv asp62his,ligiv
+tp53,ligiv
+arg399gln,ligiv
+xrcc1,ligiv
+thr241met,ligiv
+gln221glu,ligiv
+pro231ser,ligiv
+pro72arg,ligiv
+arg559gln,ligiv
+15455419a>g,ligiv
+xrcc3,ligiv
+beta-catenin,krüppel-like factor 5
+leber congenital amaurosis,joubert
+meckel syndromes,joubert
+tnfalpha gene polymorphisms,tnfalpha g -308 allele
+il-1,tnfalpha g -308 allele
+il-1alpha tt -889,tnfalpha g -308 allele
+r381q,fcgiiia g559t
+nf kappab -94attg,fcgiiia g559t
+card15,fcgiiia g559t
+tnf-alpha-g308a,fcgiiia g559t
+snp +372 t/c,fcgiiia g559t
+rs11209026,fcgiiia g559t
+nod2 snp,fcgiiia g559t
+g908r,fcgiiia g559t
+timp-1 genotype tt,fcgiiia g559t
+5t5t genotype at mmp-3 snp -1613 5t/6t,fcgiiia g559t
+tnf-alpha,fcgiiia g559t
+hcv infection,hepatitis c
+malignant melanoma,cancer
+sporadic breast cancer,cancer
+-819c/t,il-10
+interleukin-10 promoter single-nucleotide polymorphisms,il-10
+602s,il-10
+manic disorders,bipolar disorder
+cyp3a5 a6986g genotype *3/*3,a6986g polymorphism of cyp3a5
+nptn,rs1937970-rs677221
+rs677221-c,rs1937970-rs677221
+rs1937970,rs1937970-rs677221
+haplotypes gc,rs1937970-rs677221
+haplotype ag,rs1937970-rs677221
+rs3743500,rs1937970-rs677221
+rs3840846,rs1937970-rs677221
+rs3826047,rs1937970-rs677221
+nptn,haplotype ag
+rs677221-c,haplotype ag
+rs1937970,haplotype ag
+haplotypes gc,haplotype ag
+rs3743500,haplotype ag
+rs3840846,haplotype ag
+rs3826047,haplotype ag
+xrcc3,gpx2
+toll-like receptor,nlrp3
+rs11209026,nlrp3
+nalp3,nlrp3
+mdr1,nlrp3
+granulocyte-macrophage colony-stimulating factor,nlrp3
+il23r haplotypes,nlrp3
+nucleotide oligomerization domain 2,nlrp3
+toll-like receptor,il23r haplotypes
+rs11209026,il23r haplotypes
+nalp3,il23r haplotypes
+mdr1,il23r haplotypes
+granulocyte-macrophage colony-stimulating factor,il23r haplotypes
+nucleotide oligomerization domain 2,il23r haplotypes
+rs491347,lrp5
+rs731236,rs10735810
+rs2228570,rs10735810
+hemolytic-uremic syndrome,hus
+stec o157 infection,hus
+toll-like receptor,granulocyte-macrophage colony-stimulating factor
+rs11209026,granulocyte-macrophage colony-stimulating factor
+nalp3,granulocyte-macrophage colony-stimulating factor
+mdr1,granulocyte-macrophage colony-stimulating factor
+nucleotide oligomerization domain 2,granulocyte-macrophage colony-stimulating factor
+recalcitrant crswnp,crssnp
+liglv asp62his,xrcc1
+tp53,xrcc1
+arg399gln,xrcc1
+thr241met,xrcc1
+gln221glu,xrcc1
+pro231ser,xrcc1
+pro72arg,xrcc1
+polymorphism of xrcc1,xrcc1
+arg559gln,xrcc1
+xrcc3,xrcc1
+15455419a>g,xrcc1
+t-allele of nos1ap rs7538490,c-allele of pklr rs3020781
+rs3020781,c-allele of pklr rs3020781
+ss52580101,rs11594656
+il2ra,rs11594656
+rs1937970-a,rs677221-g
+hemolytic-uremic syndrome,stec o157 infection
+cancers,solid tumors
+non-melanoma skin cancers,solid tumors
+toll-like receptor,mdr1
+rs11209026,mdr1
+nalp3,mdr1
+nucleotide oligomerization domain 2,mdr1
+rs13199524,rs2395029
+rs3093662,rs2395029
+rs12198173,rs2395029
+rs2575735,rs2395029
+oscc,oral leukoplakia
+inflammation,oral leukoplakia
+squamous cell carcinoma,oral leukoplakia
+ghrh receptor,ghrh
+his1104his,asp1104asp
+his1104asp,asp1104asp
+liglv asp62his,arg399gln
+tp53,arg399gln
+thr241met,arg399gln
+gln221glu,arg399gln
+pro231ser,arg399gln
+pro72arg,arg399gln
+arg559gln,arg399gln
+xrcc3,arg399gln
+15455419a>g,arg399gln
+r381q,card15
+nf kappab -94attg,card15
+tnf-alpha-g308a,card15
+snp +372 t/c,card15
+rs11209026,card15
+nod2 snp,card15
+g908r,card15
+timp-1 genotype tt,card15
+5t5t genotype at mmp-3 snp -1613 5t/6t,card15
+tnf-alpha,card15
+amyloid beta protein,hcnp
+hcnppp,hcnp
+abeta,hcnp
+alzheimer's disease,ad
+amyloid beta protein,hcnppp
+abeta,hcnppp
+xpd lys751gln,xrcc3 thr241met
+rs3020781,t-allele of nos1ap rs7538490
+r381q,snp +372 t/c
+nf kappab -94attg,snp +372 t/c
+tnf-alpha-g308a,snp +372 t/c
+rs11209026,snp +372 t/c
+nod2 snp,snp +372 t/c
+g908r,snp +372 t/c
+timp-1 genotype tt,snp +372 t/c
+5t5t genotype at mmp-3 snp -1613 5t/6t,snp +372 t/c
+tnf-alpha,snp +372 t/c
+nf kappab -94attg,r381q
+tnf-alpha-g308a,r381q
+rs11209026,r381q
+nod2 snp,r381q
+g908r,r381q
+timp-1 genotype tt,r381q
+5t5t genotype at mmp-3 snp -1613 5t/6t,r381q
+tnf-alpha,r381q
+toll-like receptor,nucleotide oligomerization domain 2
+rs11209026,nucleotide oligomerization domain 2
+nalp3,nucleotide oligomerization domain 2
+liglv asp62his,gln221glu
+tp53,gln221glu
+thr241met,gln221glu
+pro231ser,gln221glu
+pro72arg,gln221glu
+arg559gln,gln221glu
+xrcc3,gln221glu
+15455419a>g,gln221glu
+vascular stiffness,aortic stiffness
+liglv asp62his,pro72arg
+tp53,pro72arg
+thr241met,pro72arg
+pro231ser,pro72arg
+arg559gln,pro72arg
+xrcc3,pro72arg
+15455419a>g,pro72arg
+tumor necrosis factor,il-23
+tnf)-alpha,il-23
+non-melanoma skin cancers,cancers
+oscc,inflammation
+squamous cell carcinoma,inflammation
+-819c/t,interleukin-10 promoter single-nucleotide polymorphisms
+602s,interleukin-10 promoter single-nucleotide polymorphisms
+rs2275353,chitinase 3-like 1
+ivs7+82c/t,chitinase 3-like 1
+rs10399805,chitinase 3-like 1
+6q23,hbs1l-myb
+nptn,rs3743500
+rs677221-c,rs3743500
+rs1937970,rs3743500
+haplotypes gc,rs3743500
+rs3840846,rs3743500
+rs3826047,rs3743500
+his1104his,his1104asp
+nf kappab -94attg,5t5t genotype at mmp-3 snp -1613 5t/6t
+tnf-alpha-g308a,5t5t genotype at mmp-3 snp -1613 5t/6t
+rs11209026,5t5t genotype at mmp-3 snp -1613 5t/6t
+nod2 snp,5t5t genotype at mmp-3 snp -1613 5t/6t
+g908r,5t5t genotype at mmp-3 snp -1613 5t/6t
+timp-1 genotype tt,5t5t genotype at mmp-3 snp -1613 5t/6t
+tnf-alpha,5t5t genotype at mmp-3 snp -1613 5t/6t
+liglv asp62his,arg559gln
+tp53,arg559gln
+thr241met,arg559gln
+pro231ser,arg559gln
+xrcc3,arg559gln
+15455419a>g,arg559gln
+malignant melanoma,sporadic breast cancer
+chemokine receptor,hla
+602s,-819c/t
+liglv asp62his,thr241met
+tp53,thr241met
+pro231ser,thr241met
+xrcc3,thr241met
+15455419a>g,thr241met
+hes-1,hairy and enhancer of split homologue-1
+hairy and enhancer of split homolog-1,hairy and enhancer of split homologue-1
+nf kappab -94attg,g908r
+tnf-alpha-g308a,g908r
+rs11209026,g908r
+nod2 snp,g908r
+timp-1 genotype tt,g908r
+tnf-alpha,g908r
+abeta,amyloid beta protein
+il2ra,ss52580101
+liglv asp62his,15455419a>g
+tp53,15455419a>g
+pro231ser,15455419a>g
+xrcc3,15455419a>g
+hairy and enhancer of split homolog-1,hes-1
+nf kappab -94attg,timp-1 genotype tt
+tnf-alpha-g308a,timp-1 genotype tt
+rs11209026,timp-1 genotype tt
+nod2 snp,timp-1 genotype tt
+tnf-alpha,timp-1 genotype tt
+nptn,rs3840846
+rs677221-c,rs3840846
+rs1937970,rs3840846
+haplotypes gc,rs3840846
+rs3826047,rs3840846
+rs3825942,rs2165241
+loxl1 polymorphisms,rs2165241
+rs1048661,rs2165241
+rs2275353,rs10399805
+ivs7+82c/t,rs10399805
+il-1,tnfalpha gene polymorphisms
+il-1alpha tt -889,tnfalpha gene polymorphisms
+rs13199524,rs3093662
+rs12198173,rs3093662
+rs2575735,rs3093662
+tnf)-alpha,tumor necrosis factor
+leber congenital amaurosis,meckel syndromes
+nptn,haplotypes gc
+rs677221-c,haplotypes gc
+rs1937970,haplotypes gc
+rs3826047,haplotypes gc
+rs2228570,rs731236
+il-1alpha tt -889,il-1
+nptn,rs677221-c
+rs1937970,rs677221-c
+rs3826047,rs677221-c
+liglv asp62his,tp53
+pro231ser,tp53
+xrcc3,tp53
+nf kappab -94attg,tnf-alpha
+tnf-alpha-g308a,tnf-alpha
+rs11209026,tnf-alpha
+nod2 snp,tnf-alpha
+rs2275353,ivs7+82c/t
+liglv asp62his,xrcc3
+pro231ser,xrcc3
+rs3825942,rs1048661
+loxl1 polymorphisms,rs1048661
+rs11209026,toll-like receptor
+nalp3,toll-like receptor
+rs1937970,nptn
+rs3826047,nptn
+npas2,ala394thr
+rs3825942,loxl1 polymorphisms
+nf kappab -94attg,nod2 snp
+tnf-alpha-g308a,nod2 snp
+rs11209026,nod2 snp
+rs11209026,nalp3
+rs13199524,rs12198173
+rs2575735,rs12198173
+rs2198843,ttac/ccag
+rs4886605,ttac/ccag
+squamous cell carcinoma,oscc
+nf kappab -94attg,rs11209026
+tnf-alpha-g308a,rs11209026
+rs2198843,rs4886605
+pro231ser,liglv asp62his
+rs1937970,rs3826047
+rs2575735,rs13199524
+nf kappab -94attg,tnf-alpha-g308a
